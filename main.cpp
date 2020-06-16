@@ -75,3 +75,6 @@ int main(){
     return 0;
 
 }
+int test1(int a){
+    return a;
+}
